@@ -1,0 +1,17 @@
+{
+  "name": "dockerfile-snippets",
+  "version": "1.0.0",
+  "description": "A dockerfile building tool",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "browser-sync": "^2.26.7",
+    "browsersync": "0.0.1-security",
+    "connect-modrewrite": "^0.10.2",
+    "gulp": "^4.0.2"
+  }
+}

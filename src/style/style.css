@@ -1,0 +1,26 @@
+body{
+    background-image:
+    radial-gradient(
+    #c8d6e5,
+      #8395a7
+    );    
+}
+
+h3{
+    font-size: 18px;
+}
+
+.container{
+    margin-top: 5vh;
+}
+
+.col{
+    background-color: #ffffff;
+    padding: 16px;
+    margin: 10px;
+}
+
+textarea {
+    width: 100%;
+    min-height: calc(100% - 60px);
+}
